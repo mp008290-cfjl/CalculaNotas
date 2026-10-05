@@ -1,0 +1,1 @@
+#Crie um algoritmo para solicitar ao usuário as notas de duas avaliações de um aluno. O algoritmo deve calcular e apresentar a média aritmética das duas notas. Construa um algoritmo bem simples, sem utilizar funções e/ou tratamento de exceções. Faça commit desse código com a mensagem: “Calcula a média de duas avaliações.”.
