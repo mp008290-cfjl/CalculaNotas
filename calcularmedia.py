@@ -1,1 +1,9 @@
-#Crie um algoritmo para solicitar ao usuário as notas de duas avaliações de um aluno. O algoritmo deve calcular e apresentar a média aritmética das duas notas. Construa um algoritmo bem simples, sem utilizar funções e/ou tratamento de exceções. Faça commit desse código com a mensagem: “Calcula a média de duas avaliações.”.
+print("programa para calcular a média de duas notas")
+
+nota_1 = float(input("por favor,diga a primeira nota: "))
+nota_2 = float(input("por favor,diga a segunda nota: "))
+
+media_final = (nota_1 + nota_2) / 2
+
+print(f"a média final é {media_final:.2f}")
+
